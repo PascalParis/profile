@@ -82,7 +82,6 @@ table{
     font-size: 28px;
 }
 /* Fixed sidebar layout */
-
 #content{
   margin-left: 120px;
 }
@@ -116,7 +115,6 @@ table{
 #sidebar a:hover {
   color: white;
 }
-
 
 @media (max-width: 960px) {
   .container {
