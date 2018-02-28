@@ -74,7 +74,10 @@ table{
     padding: 10px;
     border-radius: 4px;
 }
-
+.btn-red:hover{
+  background-color: #C61414;
+  color: white;
+}
 .picto-size {
     font-size: 28px;
 }
